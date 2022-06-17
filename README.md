@@ -10,7 +10,7 @@
 
 
 <hr class = "dashed">
-<h2>Following are my favourite projects. You can go throught my github profile too</h2>
+<h2>Following are my favourite projects. You can go through my github profile too</h2>
 
 <p> My Most Favourite project I worked on and also my FYP. It is an augmented Reality application that lets users draw in AR using and show off their drawing skills. I It was developed in Unity using AR Foundation and using Flutter UI/UX provided us with the beautiful user interface. This got First position for having the best industrial FYP in whole CS batch</p>
 
