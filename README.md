@@ -36,11 +36,6 @@
   
   
 
-<p dir="auto" align = "center">
-    <a href="https://github.com/blink616/awaazPay">
-      <img src="https://user-images.githubusercontent.com/51245088/174355159-f753ca19-1bc8-4d4b-9652-7edde9194cf3.jpg" alt="GitHub Stats" style="max-width: 100%;">
-    </a>
-  </p>  
 
 
 
