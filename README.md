@@ -41,9 +41,21 @@ I'm passionate about developing amazing products for end-users and continually l
 ### Software Engineer at Intech Process Automation Company
 Date: Nov 2022 - Present*
 
-- Translated designs & wireframes into high-quality code and wrote application interface code via JavaScript following React.js workflows
-- Identified web-based user interactions and developed highly-responsive user interface components via React concepts
-- Optimizing backend and frontend Queries increasing the performance of the frontend.
+ - Understanding clients requirements and integrating new feature on the existing platform
+ - Translated designs & wireframes into high-quality code and wrote application interface code via JavaScript following React.js workflows
+ - Identified web-based user interactions and developed highly- responsive user interface components via React concepts Optimizing backend and frontend Queries increasing the 
+   performance of the frontend.
+ - Integrated Twilio Conversations on the whole platform. Text Messages, Voice Messages, Video Call Conferences.
+
+### Software Engineer at ThinkSoft - Part Time
+Date: April 2021 - June 2022
+ - Worked on a team and project management tool called SuperLeader. SuperLeader is a project management tool where you can assign tasks to your team members while working on a 
+   project. It has many features for increased productivity, time logging, agile methodologies implementation, and a calendar for meeting integration. I worked on all parts of the 
+   system along with the lead project. The project stack was MERNG (Mongoose, Express, React, Node, and GraphQl). This internship was my first and helped me improve my development 
+   experience and skills.
+ - Backend development in Node and Express along with GraphQl Resolvers and MongoDb database, Oauth2 for single sign-in option
+ - Frontend development in NextJs, AntDesigns for reusable components
+
 
 ## Education
 
@@ -51,8 +63,6 @@ Date: Nov 2022 - Present*
 *NUST, Islamabad, Pakistan*
 *Graduation Date: July, 2022*
 
-
-## Contact Me
 
 <div align="left">
   <a href="mailto:hamiz.ali686@gmail.com" target="_blank">
@@ -62,3 +72,6 @@ Date: Nov 2022 - Present*
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+## My portfolio:
+<div><a href="https://hamizportfolio.netlify.app/">My Resumê</a></div>
