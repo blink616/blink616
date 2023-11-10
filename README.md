@@ -74,4 +74,4 @@ Date: April 2021 - June 2022
 </div>
 
 ## My portfolio:
-<div><a href="https://hamiz-ali.netlify.app/">Portfolio</a></div>
+<div><a href="https://hamizali.netlify.app/">Portfolio</a></div>
