@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hamiz Ali, a Computer Scientist
+# Hi there! 👋 I'm Hamiz Ali
 
 I'm passionate about developing amazing products for end-users and continually learning and growing as a Computer Scientist.
 
