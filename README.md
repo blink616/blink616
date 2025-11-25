@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hamiz Ali
 
-I'm passionate about developing amazing products for end-users and continually learning and growing as a Computer Scientist.
+I'm passionate about developing amazing products for end-users, learning and growing as a Computer Scientist.
 
 ## GitHub Stats
 
